@@ -26,6 +26,6 @@ export type ProjectTypes = {
     code ?: string,
     live : string,
     thumnail : string,
-    activo ?: boolean,
+    featured ?: boolean,
     secondary ?: boolean,
 }
