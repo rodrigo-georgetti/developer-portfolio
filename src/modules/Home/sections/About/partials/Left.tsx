@@ -10,11 +10,12 @@ const Left = () => {
 
   // content
   const content = [
-    "Hello! I'm Raihan, a passionate web developer who loves creating captivating experiences on the internet. My journey into web development began in 2020 when I started experimenting with customizing Tumblr themes. Through tinkering with HTML and CSS, even something as simple as editing a reblog button, I discovered my fascination for building things online.",
-    // "Since then, I've had the incredible opportunity to work in diverse environments, including an advertising agency, a start-up, a large corporation, and a student-led design studio. These experiences have shaped my expertise in crafting accessible and inclusive products and digital experiences. Currently, I'm thrilled to be a part of Upstatement, where I collaborate with a range of clients to bring their visions to life.",
-    "I believe in the power of the web to connect people and create meaningful interactions. With a keen eye for detail and a commitment to user-centric design, I strive to deliver exceptional web solutions that leave a lasting impact.",
-    "Let's collaborate and turn your ideas into remarkable digital experiences!",
-    "Here are a few technologies I have been working with recently:"
+    "¡Hola! mi nombre es Rodrigo, Fullstack Developer con conocimientos en: Typescript, Javascript, HTML, CSS, React, Redux, NodeJS, Express, PostgreSQL, Sequelize.",
+"Desde pequeño tuve afición por los videogames 🎮, eso primero despetó mi curiosidad por la tecnología y luego por la programación.",
+"Estudié Ing. en sistemas de información, y recientemente Fullstack developer en el bootcamp Soyhenry 💻.",
+"La ingeniería me dio un marco teórico batante sólido, pero sentí que necesitaba profundizar mis conocimientos en programación y por eso inicié Soyhenry.",
+ "Mi objetivo pricipal es integrar proyectos de software, asi como ampliar mis conocimientos con las tecnologías que aun no domino.",
+  "Tengo una mayor afinidad hacia el area Back-End 🔌."
   ]
 
   return (
