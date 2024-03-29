@@ -15,7 +15,7 @@ export const projects : ProjectTypes[] = [
         tech : [ "Next js 13", "Tailwind CSS", "Express js", "MongoDB" ],
         code : 'https://github.com/rodrigo-georgetti/developer-portfolio',
         live : '',
-        thumnail : "portfolio-v2.png",
+        thumnail : "portfolio.png",
         featured : true
     },
 
