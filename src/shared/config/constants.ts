@@ -9,6 +9,16 @@ export const navData = [ "About", "Experience", "Works", "Contact" ]
 
 // project data
 export const projects : ProjectTypes[] = [
+
+    {
+        title : "Nutrimarket",
+        description : "Nutrimarket es un E-Commerce que promueve el consumo de alimentos sanos, con sus diferentes categorías",
+        tech : [ "React", "Tailwind CSS", "Node js", "MongoDB" ],
+        code : 'https://github.com/No-Country/c16-18-t-node-react',
+        live : '',
+        thumnail : "nutrimarket.png",
+        featured : true
+    },
     {
         title : "Portfolio web",
         description : "Portfolio personal con mis techskills, experiencias y proyectos desarrollados",
