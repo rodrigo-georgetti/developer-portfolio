@@ -9,7 +9,24 @@ export const navData = [ "About", "Experience", "Works", "Contact" ]
 
 // project data
 export const projects : ProjectTypes[] = [
-
+    {
+        title : "Amplify",
+        description : "Amplifiy es un app que permite compartir y subir musica, esta pensada para artistas emergentes (Proyecto destacado por No Country)",
+        tech : [ "React", "Tailwind CSS", "Node js", "MySQL" ],
+        code : 'https://github.com/espinozayff/s15-05-amplify',
+        live : '',
+        thumnail : "amplify.png",
+        featured : true
+    },
+    {
+        title : "Bizwiz",
+        description : "Bizwiz es una Red social para promoción de productos y servicios, orientado a emprendedores",
+        tech : [ "React", "Tailwind CSS", "Java", "MongoDB" ],
+        code : 'https://github.com/No-Country/S-14-20-T-JAVA',
+        live : '',
+        thumnail : "bizwiz.png",
+        featured : true
+    },
     {
         title : "Nutrimarket",
         description : "Nutrimarket es un E-Commerce que promueve el consumo de alimentos sanos, con sus diferentes categorías",

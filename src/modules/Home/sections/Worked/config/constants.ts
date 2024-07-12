@@ -4,6 +4,32 @@ import { WorkedTypes } from './types';
 export const worked_data : WorkedTypes[] = [
    { 
       id: 0,
+      label : "Full Stack Developer",
+      description : [
+         "Asistir a las dailys para la coordinación de tareas, consulta de dudas y muestra de avances.",
+         "Programar soluciones tanto frontend como backend.",
+         "Sugerir ideas y manifestar observaciones para mejoras en el proyecto.",
+      ],
+      deadline : "may 24 - Actualidad",
+      title: "Fullstack Developer",
+      company : "Helpme App!",
+      url : "https://helpmeappsocial.com/",
+   },
+   { 
+      id: 1,
+      label : "Backend Developer",
+      description : [
+         "Asistir a las dailys para la coordinación de tareas, consulta de dudas y muestra de avances..",
+         "Programar las rutas y sus estructuras.",
+         "Sugerir ideas y manifestar observaciones para mejoras en el proyecto.",
+      ],
+      deadline : "Feb 24 - Mar 24",
+      title: "Backend Developer",
+      company : "Peloteras",
+      url : "https://www.peloteras.com/",
+   },
+   { 
+      id: 2,
       label : " Full Stack Teaching Assistant",
       description : [
          "Coordinar a un grupo de estudiantes para lograr la integración al equipo de estudio.",
@@ -16,7 +42,7 @@ export const worked_data : WorkedTypes[] = [
       url : "https://www.soyhenry.com",
    },
    { 
-      id: 1,
+      id: 3,
       label : "Ayudante de Cátedra",
       description : [
         "Atención de Consultas de los alumnos",
@@ -29,7 +55,7 @@ export const worked_data : WorkedTypes[] = [
       url : "https://www.frvm.utn.edu.ar/",
    },
    { 
-      id: 2,
+      id: 4,
       label : "Ayudante de Cátedra",
       description : [
          "Atención de Consultas de los alumnos",
